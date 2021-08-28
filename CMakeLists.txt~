@@ -1,0 +1,4 @@
+project(sortingmethods)
+
+add_executable(sortingmethods main.cpp)
+
